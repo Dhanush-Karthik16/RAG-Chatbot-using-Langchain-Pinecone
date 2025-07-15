@@ -17,8 +17,7 @@ An intelligent document-based chatbot powered by **LangChain**, **Google Gemini*
 
 ## 📸 Sample Screenshots
 
-![WhatsApp Image 2025-07-13 at 22 14 40_cece985e](https://github.com/user-attachments/assets/9065eac1-e6be-476c-a0e5-ef218a71661f)
-
+<img width="997" height="837" alt="image" src="https://github.com/user-attachments/assets/cedb88f6-e204-403f-b662-f1663bf29012" />
 
 ## 📂 File Structure
 - Insight chatbot/
